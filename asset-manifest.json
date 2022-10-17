@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.91ff367c.css",
+    "main.js": "/My-Portfolio/static/js/main.9dc19cf9.js",
+    "static/media/gpt3.png": "/My-Portfolio/static/media/gpt3.6ce26a7cb87a6d72a9dd.png",
+    "static/media/i6.png": "/My-Portfolio/static/media/i6.941ff1a04a5cc4a1cd54.png",
+    "static/media/i5.png": "/My-Portfolio/static/media/i5.fa3b1671648069432edb.png",
+    "static/media/i8.png": "/My-Portfolio/static/media/i8.b1df29bc143322143f7b.png",
+    "static/media/i7.png": "/My-Portfolio/static/media/i7.4f2727804d8d7b799a57.png",
+    "static/media/gericht.png": "/My-Portfolio/static/media/gericht.3d299a77a4a01668a3b5.png",
+    "static/media/i4.png": "/My-Portfolio/static/media/i4.dcf3bb50eea7f3d96be0.png",
+    "static/media/worlde.png": "/My-Portfolio/static/media/worlde.766d84bfd1cc2864454f.png",
+    "static/media/mario.jpg": "/My-Portfolio/static/media/mario.016b4796332ba7950263.jpg",
+    "static/media/maxresdefault.jpg": "/My-Portfolio/static/media/maxresdefault.b9d2098187caaa328173.jpg",
+    "static/media/asphalt.jpg": "/My-Portfolio/static/media/asphalt.e7fe8abf267adccf95b3.jpg",
+    "static/media/huddle.png": "/My-Portfolio/static/media/huddle.083f04423be10fc36cc1.png",
+    "static/media/countryAPI.png": "/My-Portfolio/static/media/countryAPI.5c31f165be344cbf716d.png",
+    "static/media/sniper.jpg": "/My-Portfolio/static/media/sniper.7200f8be61e9a433988a.jpg",
+    "static/media/undraw_under_construction_-46-pa.svg": "/My-Portfolio/static/media/undraw_under_construction_-46-pa.f0a46e239835782348fcd73d64f13cf4.svg",
+    "static/media/pes5.jpeg": "/My-Portfolio/static/media/pes5.5c3c8bac912eeae27ca6.jpeg",
+    "static/media/undraw_feeling_blue_-4-b7q.svg": "/My-Portfolio/static/media/undraw_feeling_blue_-4-b7q.25a59af09a15f6b97cdde63a1a137f26.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "static/media/MyCV.pdf": "/My-Portfolio/static/media/MyCV.31d6cfe0d16ae931b73c.pdf",
+    "main.91ff367c.css.map": "/My-Portfolio/static/css/main.91ff367c.css.map",
+    "main.9dc19cf9.js.map": "/My-Portfolio/static/js/main.9dc19cf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91ff367c.css",
+    "static/js/main.9dc19cf9.js"
+  ]
+}
